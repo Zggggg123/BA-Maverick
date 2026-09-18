@@ -5,12 +5,14 @@ Broken Arrow 第三方桌面数据工具：自动识别当前对局并批量查�
 ## 下载
 
 到 [Releases](https://github.com/Zggggg123/BA-Maverick/releases) 页面下载最新的  
-`Maverick-x.y.z-win.zip`（Windows x64 便携版，例如 `Maverick-0.2.4-win.zip`）。
+`Maverick-x.y.z-win.zip`（Windows x64 便携版，例如 `Maverick-0.2.5-win.zip`）。
 
 - **免安装**：解压到任意有写权限的目录，双击 `Maverick.exe` 即可  
   （❌ 别解压进 `Program Files`，那里没有写权限，程序日志会降级）
 - **升级**：下载新版 zip 解压覆盖即可，设置保留
-- ⚠️ **没有安装包、也没有内置自动更新** —— 有新版本请自己回来下载
+- ⚠️ **没有安装包**，程序也**不会自己下载安装**新版本 —— 它只在设置页提示「发现新版本」，
+  点一下帮你打开这个下载页，**解压替换仍然要你手动做**
+  （⚠️ `0.2.5` 起才有这个提示；更早的版本不会提示，得自己回来看看）
 
 ## 使用说明
 
